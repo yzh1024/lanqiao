@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1入门训练/1入门训练.iml" filepath="$PROJECT_DIR$/1入门训练/1入门训练.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2基础练习/2基础练习.iml" filepath="$PROJECT_DIR$/2基础练习/2基础练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3算法训练/3算法训练.iml" filepath="$PROJECT_DIR$/3算法训练/3算法训练.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4算法提高/4算法提高.iml" filepath="$PROJECT_DIR$/4算法提高/4算法提高.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5历届真题/5历届真题.iml" filepath="$PROJECT_DIR$/5历届真题/5历届真题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/蓝桥杯练习题.iml" filepath="$PROJECT_DIR$/蓝桥杯练习题.iml" />
+    </modules>
+  </component>
+</project>
