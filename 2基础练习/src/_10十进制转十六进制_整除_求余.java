@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /*
 资源限制
 时间限制：1.0s   内存限制：512.0MB
@@ -14,4 +16,8 @@
 1E
  */
 public class _10十进制转十六进制_整除_求余 {
+    public static void main(String[] args) {
+        String  n = new Scanner(System.in).nextLine();
+        System.out.println(Long.valueOf(n,16));
+    }
 }
