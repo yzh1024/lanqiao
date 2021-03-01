@@ -50,5 +50,7 @@ public class _1A加B问题 {
         int a =sc.nextInt();
         int b =sc.nextInt();
         System.out.println(a+b);
+
+        //haha
     }
 }
